@@ -1,0 +1,11 @@
+<app>
+     <id>gj8dl19d0</id>
+     <name>Interest Rates Now</name>
+     <provider>Interest Rater</provider>
+     <description>A tool to see the current interest rate</description>
+     <extensionpoint>
+          <location>REPORTING_VIEW</location>
+          <label>Interest Rates</label>
+          <url>https://interestrater.herokuapp.com/</url>
+     </extensionpoint>
+</app>
